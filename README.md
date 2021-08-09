@@ -1,5 +1,4 @@
-# mZone
-MAKER Zone
+# mZone - MAKER Zone
 
     ./mZone
      |-- 00README.txt
