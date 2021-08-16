@@ -125,7 +125,8 @@ Sun Jun 27 06:07:27 JST 2021
 
 -->
 
-
 Note: 	url = https://github.com/hohno-46466/mZone
+
+Note:   url = git@github.com:hohno-46466/mZone.git
 
 -EOF-
