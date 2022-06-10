@@ -3,43 +3,10 @@
 MAKER Zone
 
     ./mZone
-     |-- 00README.txt
-     `-- README.md
-
-    ./mZone--123D_Design
-     `-- README.md
-
-   ../mZone--7segLED--demo1
-     |-- README.md
-     `-- Scripts
-         |-- start-B1-7segLED-1.sh
-         |-- start-B1-7segLED-2.sh
-         `-- start-B1-7segLED-3.sh
-
-    ./mZone--DMX512--demo1
-     |-- README.md
-     `-- Scripts
-         |-- 00README.txt
-         |-- start-A0-DMX512-1.sh
-         |-- start-A0-DMX512-2.sh
-         |-- start-A0-DMX512-3-random.sh
-         `-- start-A0-DMX512-4.sh
-
-    ./mZone--ILI9341--demo1
-     |-- README.md
-     `-- Scripts
-         |-- start-B0-ILI9341-1.sh
-         |-- start-B0-ILI9341-2.sh
-         `-- start-B0-ILI9341-3.sh
-
-    ./mZone--Nx16x32_MessageBoard
-     |-- README.md
-     |-- Scripts
-     |   `-- README.md
-     `-- src
-         `-- README.md
-
-     5 directories, 21 files (Tue Jun 29 06:20:15 JST 2021)
+     ├── 00README.txt
+     └── README.md
+     
+     0 directories, 2 files (Sat Jun 11 06:03:14 JST 2022)
 
 <!---
 ====
@@ -132,3 +99,4 @@ Note:	url = https://github.com/hohno-46466/mZone
 Note:	url = git@github.com:hohno-46466/mZone.git
 
 -EOF-
+
