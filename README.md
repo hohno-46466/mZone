@@ -19,9 +19,9 @@ MAKER Zone
      1 directory, 4 files (Sun Jul 17 17:48:10 JST 2022)
 
 
-Note:	url = https://github.com/hohno-46466/mZone
+Note: url = https://github.com/hohno-46466/mZone
 
-Note:	url = git@github.com:hohno-46466/mZone.git
+Note: url = git@github.com:hohno-46466/mZone.git
 
 -EOF-
 
