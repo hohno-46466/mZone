@@ -5,22 +5,23 @@ MAKER Zone
     ./mZone
      ├──  00README.txt
      ├──  README.md
-     ├──  README.md.bak
      └──  README.md.old
      
-     0 directories, 4 files (Wed Jul 27 00:17:36 JST 2022)
+     0 directories, 3 files (Mon Aug  8 02:56:11 JST 2022)
 
     ./mZone--7segLED--demo1
      ├──  README.md
+     ├──  README.md.old
      └──  Scripts/
          ├──  start-B1-7segLED-1.sh
          ├──  start-B1-7segLED-2.sh
          └──  start-B1-7segLED-3.sh
      
-     1 directory, 4 files (Wed Jul 27 00:17:36 JST 2022)
+     1 directory, 5 files (Mon Aug  8 02:56:12 JST 2022)
 
     ./mZone--DMX512--demo1
      ├──  README.md
+     ├──  README.md.old
      └──  scripts/
          ├──  00README.txt
          ├──  start-A0-DMX512-1.sh
@@ -28,25 +29,27 @@ MAKER Zone
          ├──  start-A0-DMX512-3-random.sh
          └──  start-A0-DMX512-4.sh
      
-     1 directory, 6 files (Wed Jul 27 00:17:36 JST 2022)
+     1 directory, 7 files (Mon Aug  8 02:56:12 JST 2022)
 
     ./mZone--ILI9341--demo1
      ├──  README.md
+     ├──  README.md.old
      └──  Scripts/
          ├──  start-B0-ILI9341-1.sh
          ├──  start-B0-ILI9341-2.sh
          └──  start-B0-ILI9341-3.sh
      
-     1 directory, 4 files (Wed Jul 27 00:17:36 JST 2022)
+     1 directory, 5 files (Mon Aug  8 02:56:12 JST 2022)
 
     ./mZone--Nx16x32_MessageBoard--demo1
      ├──  README.md
+     ├──  README.md.old
      ├──  Scripts/
      │   └──  README.md
      └──  src/
          └──  README.md
      
-     2 directories, 3 files (Wed Jul 27 00:17:36 JST 2022)
+     2 directories, 4 files (Mon Aug  8 02:56:12 JST 2022)
 
     ./mZone--QRcodePanel--demos
      ├──  README.md
@@ -57,7 +60,7 @@ MAKER Zone
      └──  scripts/
          └──  README.md
      
-     3 directories, 4 files (Wed Jul 27 00:17:36 JST 2022)
+     3 directories, 4 files (Mon Aug  8 02:56:12 JST 2022)
 
     ./mZone--RingLEDClock--demo1
      ├──  Arduino/
@@ -65,10 +68,11 @@ MAKER Zone
      │   └──  sketch_20210705a_strandtest_for_ICS_T3/
      │       └──  sketch_20210705a_strandtest_for_ICS_T3.ino
      ├──  README.md
+     ├──  README.md.old
      └──  Scripts/
          └──  README.md
      
-     3 directories, 4 files (Wed Jul 27 00:17:36 JST 2022)
+     3 directories, 5 files (Mon Aug  8 02:56:12 JST 2022)
 
     ./mZone--STLcolletion
      ├──  GitHubSkyline/
@@ -78,12 +82,12 @@ MAKER Zone
      ├──  README.md
      └──  README.md.old
      
-     1 directory, 5 files (Wed Jul 27 00:17:36 JST 2022)
+     1 directory, 5 files (Mon Aug  8 02:56:12 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/mZone
+Note: URL = https://github.com/hohno-46466/mZone
 
-Note: url = git@github.com:hohno-46466/mZone.git
+Note: URL = git@github.com:hohno-46466/mZone.git
 
 -EOF-
 
