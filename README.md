@@ -2,20 +2,21 @@
 
 MAKER Zone
 
-     ./mZone
+    ./mZone
      ├──  00README.txt
+     ├──  00README.txt.bak
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Tue Jan 31 05:58:49 JST 2023)
+     1 directory, 4 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--123D_Design
+    ./mZone--123D_Design
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Tue Jan 31 05:58:49 JST 2023)
+     1 directory, 2 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--123D_Design--20171219-Lens-LEDx4_folder
+    ./mZone--123D_Design--20171219-Lens-LEDx4_folder
      ├──  20171219-2229.3w
      ├──  20171219-2229.stl
      ├──  20171219-Lens+LEDx4_folder=d71H10-d65H10+(d28H10-d22H10)x4.123dx
@@ -35,9 +36,9 @@ MAKER Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 18 files (Tue Jan 31 05:58:49 JST 2023)
+     1 directory, 18 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--123D_Design--20171227-4Kcamera-AW-UE70
+    ./mZone--123D_Design--20171227-4Kcamera-AW-UE70
      ├──  00ReadMe.txt
      ├──  20171227-1748.stl
      ├──  20171227-1805.3w
@@ -67,9 +68,9 @@ MAKER Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 28 files (Tue Jan 31 05:58:49 JST 2023)
+     1 directory, 28 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--7segLED--demo1
+    ./mZone--7segLED--demo1
      ├──  README.md
      ├──  README.md.old
      └──  Scripts/
@@ -77,9 +78,9 @@ MAKER Zone
          ├──  start-B1-7segLED-2.sh
          └──  start-B1-7segLED-3.sh
      
-     1 directory, 5 files (Tue Jan 31 05:58:49 JST 2023)
+     2 directories, 5 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--A209world--private
+    ./mZone--A209world--private
      ├──  ==PrivateRepository==
      ├──  KVMcomplex/
      │   ├──  20230107-0821/
@@ -98,19 +99,24 @@ MAKER Zone
      │   ├──  20230123-1850/
      │   │   ├──  TechTips_ KVMcomplex in A209 まとめと追記（2022-12-31～）.pdf
      │   │   └──  TechTips_ KVMcomplex in A209 まとめと追記（2022-12-31～）.rtf.gz
+     │   ├──  20230208-1020/
+     │   │   ├──  TechTips_ KVMcomplex in A209 まとめと追記（2022-12-31～）.odt
+     │   │   ├──  TechTips_ KVMcomplex in A209 まとめと追記（2022-12-31～）.pdf
+     │   │   ├──  TechTips_ KVMcomplex in A209 まとめと追記（2022-12-31～）.rtf.gz
+     │   │   └──  TechTips_ KVMcomplex in A209 まとめと追記（2022-12-31～）.txt
      │   └──  README.md
      ├──  README.md
      └──  README.md.old
      
-     6 directories, 15 files (Tue Jan 31 05:58:49 JST 2023)
+     8 directories, 19 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--A209world--public
+    ./mZone--A209world--public
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Tue Jan 31 05:58:49 JST 2023)
+     1 directory, 2 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--DMX512--demo1
+    ./mZone--DMX512--demo1
      ├──  README.md
      ├──  README.md.old
      └──  scripts/
@@ -121,9 +127,9 @@ MAKER Zone
          ├──  start-A0-DMX512-3-random.sh
          └──  start-A0-DMX512-4.sh
      
-     1 directory, 8 files (Tue Jan 31 05:58:49 JST 2023)
+     2 directories, 8 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--ILI9341--demo1
+    ./mZone--ILI9341--demo1
      ├──  README.md
      ├──  README.md.old
      └──  Scripts/
@@ -131,9 +137,9 @@ MAKER Zone
          ├──  start-B0-ILI9341-2.sh
          └──  start-B0-ILI9341-3.sh
      
-     1 directory, 5 files (Tue Jan 31 05:58:49 JST 2023)
+     2 directories, 5 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--Nx16x32_MessageBoard--demo1
+    ./mZone--Nx16x32_MessageBoard--demo1
      ├──  README.md
      ├──  README.md.old
      ├──  Scripts/
@@ -141,9 +147,9 @@ MAKER Zone
      └──  src/
          └──  README.md
      
-     2 directories, 4 files (Tue Jan 31 05:58:49 JST 2023)
+     3 directories, 4 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--QRcodePanel--demos
+    ./mZone--QRcodePanel--demos
      ├──  README.md
      ├──  README.md.old
      ├──  memo/
@@ -153,9 +159,9 @@ MAKER Zone
      └──  scripts/
          └──  README.md
      
-     3 directories, 5 files (Tue Jan 31 05:58:49 JST 2023)
+     4 directories, 5 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--RingLEDClock--demo1
+    ./mZone--RingLEDClock--demo1
      ├──  Arduino/
      │   ├──  README.md
      │   └──  sketch_20210705a_strandtest_for_ICS_T3/
@@ -165,9 +171,9 @@ MAKER Zone
      └──  Scripts/
          └──  README.md
      
-     3 directories, 5 files (Tue Jan 31 05:58:49 JST 2023)
+     4 directories, 5 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./mZone--STLcolletion
+    ./mZone--STLcolletion
      ├──  GitHubSkyline/
      │   ├──  README.md
      │   ├──  hohno-46466-2020.stl
@@ -175,7 +181,8 @@ MAKER Zone
      ├──  README.md
      └──  README.md.old
      
-     1 directory, 5 files (Tue Jan 31 05:58:50 JST 2023)
+     2 directories, 5 files (Tue Oct 24 05:56:32 JST 2023)
+
 
 >>>>>>> 44a30e410c666f51e364ea669e28febf466d94fb
 
